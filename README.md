@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20990
-Fork on GitHub
-6498
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Deepika Yadav</h1>
 <h3 align="center">A passionate AI- ML enthusiast from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
