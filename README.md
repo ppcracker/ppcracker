@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepika Yadav</h1>
-<h3 align="center">A passionate AI- ML enthusiast from India</h3>
+<h3 align="center">A passionate VLSI enthusiast from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppcracker&label=Profile%20views&color=0e75b6&style=flat" alt="ppcracker" /> </p>
