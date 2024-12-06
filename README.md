@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Verilog.**
 
-- 📫 How to reach me **khushi3010yadav@gmail.com**
+- 📫 How to reach me **deepika3010yadav@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/deepika-yadav-7434aa1b2/](https://www.linkedin.com/in/deepika-yadav-7434aa1b2/)
 
