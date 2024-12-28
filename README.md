@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppcracker&label=Profile%20views&color=0e75b6&style=flat" alt="ppcracker" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Verilog.**
+- 🌱 I’m currently learning **Embedded Systems and VLSI.**
 
 - 📫 How to reach me **deepika3010yadav@gmail.com**
 
